@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#box-1 {
+    background-color: blueviolet;
+    padding-top: 20px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: thistle;
+}
+
+.hearder {
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: wheat;
+    border-radius: 25%;
+    cursor: pointer;
+}
+
+button:hover {
+    background: transparent;
+    color: black;
+    border: 1px solid black;
+}
